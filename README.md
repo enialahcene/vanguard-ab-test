@@ -30,9 +30,9 @@ As part of your analysis, you’ll conduct hypothesis testing to make data-drive
 #### Ideas para nuestras Hipothesis
 
 Separar usuarios en fución de la web que use.
-Analazir numero de operaciones finalizadas.
-Comparar numero de llamadas y numero de conexiones, por edad y por tipo de web.
-Analizar el balance de las cuentas por edad y por tipo de web.
+Analizar numero de operaciones finalizadas.
+Comparar numero de llamadas y numero de conexiones, por edad y por tipo de web. (Benjamin)
+Analizar el balance de las cuentas por edad y por tipo de web. (Bruno)
 Numero de logons por edades, cuentas y tipo de web.
 Hipotesis: de test y control.
 
