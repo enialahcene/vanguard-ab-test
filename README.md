@@ -37,3 +37,11 @@ Numero de logons por edades, cuentas y tipo de web.
 Hipotesis: de test y control.
 
 Analisis uniravariante y bivariante y algo de probabilidad.
+
+
+#### Visualizacion dinámica en PBI de los resultados
+Análisis del cliente: [Descargar el video](PowerBiBenjamin.mp4)
+
+
+Análisis de los Resultados: [Descargar el video](PBI_enia_mp4.mp4)
+
